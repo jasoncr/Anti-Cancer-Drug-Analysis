@@ -22,6 +22,6 @@ Since Capomulin was the pharmaceutical's drug, I decided to pick a mouse at rand
 
 The next piece of visualization involved Capomulin and mouse weight. I made a scatter plot that involved mice weight in grams on the x axis and the average tumor volume on the y. Below is that scatter plot. As you can see there seems to be a correlation, therefore I added a linear regression line. 
 
-<img src="/Images/scatter.png" width="500"> <img src="/Images/lin_regress.png" width="500">
+<img src="/Images/scatter.png" width="400"> <img src="/Images/lin_regress.png" width="400">
 
 All of these calculations and visualizations were done in a Jupyter Notebook. 
